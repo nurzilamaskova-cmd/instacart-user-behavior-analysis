@@ -149,32 +149,32 @@ Python (pandas, numpy, matplotlib, scipy), Jupyter Notebook, EDA, продукт
 
 ## Структура репозитория
 
+## Структура репозитория
+
+```text
 instacart-user-behavior-analysis/
 ├── notebooks/
-│   └── instacart_user_behavior.ipynb      
+│   └── instacart_analysis.ipynb
 ├── data/
-│   └── README.md                            
+│   └── README.md
 ├── images/
-│   ├── orders_by_day.png                    
-│   ├── orders_by_hour.png                   
-│   ├── order_interval.png                   
-│   ├── top_categories.png                   
-│   ├── repeat_purchase_rate.png             
-│   ├── top_repeat_products.png              
-│   ├── basket_size.png                      
-│   └── retention_by_order.png               
-└── README.md                                
-
+│   ├── orders_by_day.png
+│   ├── orders_by_hour.png
+│   ├── order_interval.png
+│   ├── top_categories.png
+│   ├── repeat_purchase_rate.png
+│   ├── top_repeat_products.png
+│   ├── basket_size.png
+│   └── retention_by_order.png
+└── README.md
 
 ## Автор
 
-*Твоё имя*
+Маскова Нурзиля
 
-GitHub: *ссылка на профиль*
-
-LinkedIn: *ссылка на профиль*
+GitHub: https://github.com/nurzilamaskova-cmd
 
 ---
-*
+
 
 
