@@ -149,8 +149,6 @@ Python (pandas, numpy, matplotlib, scipy), Jupyter Notebook, EDA, продукт
 
 ## Структура репозитория
 
-## Структура репозитория
-
 ```text
 instacart-user-behavior-analysis/
 ├── notebooks/
@@ -168,13 +166,11 @@ instacart-user-behavior-analysis/
 │   └── retention_by_order.png
 └── README.md
 
+---
 ## Автор
 
 Маскова Нурзиля
 
 GitHub: https://github.com/nurzilamaskova-cmd
-
----
-
 
 
