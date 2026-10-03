@@ -166,11 +166,3 @@ instacart-user-behavior-analysis/
 │   └── retention_by_order.png
 └── README.md
 
-
-## Автор
-
-Маскова Нурзиля
-
-GitHub: https://github.com/nurzilamaskova-cmd
-
-
