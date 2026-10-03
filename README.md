@@ -166,8 +166,6 @@ instacart-user-behavior-analysis/
 │   └── retention_by_order.png
 └── README.md
 
----
-
 
 ## Автор
 
